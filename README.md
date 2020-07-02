@@ -1,4 +1,4 @@
-# COVID-19.github.io
+# COVID-19 Dashboard using Tableau
 
 The dashboard is created using Tableau and the data is collected in CSV file from Europe open data portal and linked to google sheets.
 The Dashboard then extracts the data from google sheet and shows the visualization.
